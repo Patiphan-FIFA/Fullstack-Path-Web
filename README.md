@@ -12,15 +12,15 @@ Framework
 backend
 - "mkdir backend"
 - "cd backend"
-- "npm init -y"
-- "npm install express cors dotenv mysql2"
-- "npm install --save-dev nodemon"
+- "npm init -y" ติตตั้ง package.json
+- "npm install express cors dotenv mysql2" ติดตั้ง Libary
+- "npm install --save-dev nodemon" ติดตั้ง tool for dev
 - "cd .. (หรือใช้ cd Fullstack-Path-2)"
 
 frontend
-- "npm create vite#latest frontend -- --template react"
+- "npm create vite#latest frontend -- --template react" 
 - "cd frontend"
-- "npm install"
+- "npm install" 
 - "npm install axios"
 - "cd .."
 
