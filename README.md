@@ -18,7 +18,7 @@ backend
 - "cd .. (หรือใช้ cd Fullstack-Path-2)"
 
 frontend
-- "npm create vite#latest frontend -- --template react" 
+- "npm create vite@latest frontend -- --template react" 
 - "cd frontend"
 - "npm install" 
 - "npm install axios"
